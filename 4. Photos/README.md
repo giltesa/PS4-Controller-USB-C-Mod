@@ -1,0 +1,4 @@
+![JDS-USBC](https://raw.githubusercontent.com/giltesa/PS4-Controller-USB-C-Kit/master/4.%20Photos/PlayStation%204%20DualShock%20Controller%20USB-C%20v1.1_4.jpg)
+![JDS-USBC](https://raw.githubusercontent.com/giltesa/PS4-Controller-USB-C-Kit/master/4.%20Photos/PlayStation%204%20DualShock%20Controller%20USB-C%20v1.1_1.jpg)
+![JDS-USBC](https://raw.githubusercontent.com/giltesa/PS4-Controller-USB-C-Kit/master/4.%20Photos/PlayStation%204%20DualShock%20Controller%20USB-C%20v1.1_2.jpg)
+![JDS-USBC](https://raw.githubusercontent.com/giltesa/PS4-Controller-USB-C-Kit/master/4.%20Photos/PlayStation%204%20DualShock%20Controller%20USB-C%20v1.1_3.jpg)
